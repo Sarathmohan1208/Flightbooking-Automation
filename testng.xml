@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  <parameter name ="firstname" value = "Sarath"> </parameter>
+  <parameter name ="address" value = "indian"> </parameter>
+  <parameter name ="city" value = "chennai"> </parameter>
+    <parameter name ="state" value = "tamilnadu"> </parameter>
+   <parameter name ="zipcode" value = "600059"> </parameter>
+   <parameter name ="cardnumber" value = "1234567890"> </parameter>
+   <parameter name ="month" value = "12"> </parameter>
+   <parameter name ="year" value = "2025"> </parameter>
+    <parameter name ="cardname" value = "Sarathmohan"> </parameter>
+    <classes>
+      <class name="org.automation.Blazedeomautomation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
