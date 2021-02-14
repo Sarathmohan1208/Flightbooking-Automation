@@ -70,8 +70,13 @@ public class Blazedeomautomation extends Baseclass2{
 		click(driver.findElement(By.id("rememberMe")));
 		click(driver.findElement(By.xpath("//input[@class='btn btn-primary']")));
 		System.out.println("Booking");
-		
 		System.out.println("Booking done successfully");
+		System.out.println("Booking");
+		System.out.println("Booking");
+		System.out.println("Booking");
+		System.out.println("Booking");
+		System.out.println("Booking");
+		System.out.println("Booking");
 		
 	
 	}
