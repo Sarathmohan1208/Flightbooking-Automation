@@ -69,7 +69,7 @@ public class Blazedeomautomation extends Baseclass2{
 		driver.findElement(By.id("nameOnCard")).sendKeys(s9);
 		click(driver.findElement(By.id("rememberMe")));
 		click(driver.findElement(By.xpath("//input[@class='btn btn-primary']")));
-		System.out.println("Booking about to complete");
+		System.out.println("Booking");
 		
 		System.out.println("Booking done successfully");
 		
